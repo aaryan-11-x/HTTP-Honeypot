@@ -1,0 +1,93 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	color: #333;
+}
+
+header {
+	background-color: #0074D9;
+	color: #fff;
+	padding: 20px;
+}
+
+h1 {
+	font-size: 36px;
+	margin: 0;
+}
+
+nav {
+	margin-top: 10px;
+}
+
+nav ul {
+	list-style: none;
+	display: flex;
+}
+
+nav li {
+	margin-right: 20px;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+}
+
+main {
+	padding: 20px;
+}
+
+.balance {
+	margin-bottom: 30px;
+}
+
+.balance h3 {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+.balance p {
+	font-size: 36px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.recent-transactions {
+	margin-bottom: 30px;
+}
+
+.recent-transactions h3 {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+.recent-transactions ul {
+	list-style: none;
+}
+
+.recent-transactions li {
+	margin-bottom: 10px;
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 10px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.recent-transactions .amount {
+	font-weight: bold;
+}
+
+footer {
+	background-color: #f2f2f2;
+	padding: 10px;
+	text-align: center;
+	margin-top: 30px;
+}

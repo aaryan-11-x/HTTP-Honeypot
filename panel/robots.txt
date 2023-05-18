@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: panels/passwd.txt
+Disallow: panels/passwords.txt
+Disallow: panels/rival.txt
+Allow: panels/scripts.js

@@ -1,0 +1,11 @@
+Company Name: Magna International Inc.
+Address: 337 Magna Drive
+City: Aurora
+State: Ontario
+Zip Code: L4G 7K1
+Country: Canada
+Phone: +1 (905) 726-2462
+Industry: Automotive Manufacturing
+Revenue: $40.8 billion (2021)
+Number of Employees: 168,000 (2021)
+CEO: Seetarama Kotagiri
